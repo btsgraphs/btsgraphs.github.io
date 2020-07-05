@@ -1,0 +1,74 @@
+.pos-f-t {
+background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957); }
+  @media screen and (min-width: 64em) {
+    .page-header {
+      padding: 5rem 6rem; } }
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    .page-header {
+      padding: 3rem 4rem; } }
+  @media screen and (max-width: 42em) {
+    .page-header {
+      padding: 2rem 1rem; }
+}
+
+#navbarToggleExternalContent span a{
+    color: white;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.pos-f-t h3 a {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: capitalize;
+}
+
+/* .navbar .navbar--nav {
+    display: inline-block;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+} */
+.title-container {
+    border-top: lightgray 0.5px solid;
+    text-align: left;
+    margin-left: 28px;
+    font-family: 'Lato', sans-serif;
+}
+
+.page-container p{
+    font-size: 1rem;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    /* letter-spacing: 1px; */
+}
+
+.image-container p{
+    text-align: left;
+    margin-top: 50px;
+    /* margin-bottom: 2px; */
+    margin-bottom: 1px;
+    margin-left: 5px;
+    /* margin-left: 400px; */
+}
+
+.image-container img {
+    /* width: 640px;
+    height: 320px; */
+    max-width: 100%;
+    height: auto;
+    margin-top: 5px;
+}
+
+.image-container .caption{
+    text-align: left;
+    margin-left: 28px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    /* font-family: sans-serif; */
+}
