@@ -46,9 +46,8 @@
     }
 }
 
-.page-container p{
-    font-size: 1rem;
-    font-family: 'Lato', sans-serif;
+h5{
+    font-family: sans-serif;
     color: black;
     /* letter-spacing: 1px; */
 }
