@@ -15,7 +15,7 @@
     
 #navbarToggleExternalContent span a{
     color: white;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Roboto","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
 
@@ -23,7 +23,7 @@
     text-align: center;
     color: white;
     font-size: 20px;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Roboto","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: capitalize;
 }
 
