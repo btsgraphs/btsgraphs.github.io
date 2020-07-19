@@ -54,10 +54,8 @@
 
 .page-container p{
     font-size: 1rem;
-    
     font-family: 'Lato', sans-serif;
     color: black;
-    margin: auto;
     /* letter-spacing: 1px; */
 }
 
@@ -102,6 +100,7 @@
         margin-bottom: 50px;
         font-family: 'Lato', sans-serif;
         color: black;
+        margin: 200px;
         /* font-family: sans-serif; */
     }
 }
