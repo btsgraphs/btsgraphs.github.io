@@ -97,9 +97,9 @@
 
     .image-container .caption{
         text-align: center;
-        font-size: 1rem;
         margin-top: 5px;
         margin-bottom: 50px;
+        font-size: 1rem;
         font-family: 'Lato', sans-serif;
         color: black;
         /* font-family: sans-serif; */
