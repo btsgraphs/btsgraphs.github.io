@@ -27,7 +27,7 @@
     /* letter-spacing: 1px; */
 }
 
-.btn-black{
-    background-color:#000;
-    color: #FFF;
+.btn-black {
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
 }
