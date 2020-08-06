@@ -26,3 +26,8 @@
     color: black;
     /* letter-spacing: 1px; */
 }
+
+.btn-black{
+    background-color:#000;
+    color: #FFF;
+}
