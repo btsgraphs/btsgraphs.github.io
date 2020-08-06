@@ -1,7 +1,7 @@
 
 .pos-f-t {
-    background-color: #F8CEEC;
-    background-image: linear-gradient(120deg, #A88BEB, #F8CEEC); 
+    background-color: #9921E8;
+    background-image: linear-gradient(120deg, #5F72BE, #9921E8); 
 }
 
 .pos-f-t h3 a {
@@ -10,11 +10,13 @@
     font-size: 20px;
     font-family: "Roboto","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: capitalize;
+    font-weight: bold;
 }
 
 #navbarToggleExternalContent span a{
     color: white;
     font-family: "Roboto","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
 
 }
 
@@ -23,20 +25,4 @@
     font-family: 'Lato', sans-serif;
     color: black;
     /* letter-spacing: 1px; */
-}
-
-@media screen and (min-width: 64em) {
-    .page-header {
-        padding: 5rem 6rem; 
-    } 
-}
-@media screen and (min-width: 42em) and (max-width: 64em) {
-    .page-header {
-        padding: 3rem 4rem; 
-    } 
-}
-@media screen and (max-width: 42em) {
-    .page-header {
-        padding: 2rem 1rem; 
-    }
 }
