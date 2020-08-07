@@ -27,6 +27,12 @@
     /* letter-spacing: 1px; */
 }
 
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
+
 .btn-black {
     background-color: #5F72BE !important;
     color: #FFFFFF !important;
