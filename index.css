@@ -47,7 +47,6 @@
 .bq-fill {
     color: #FFFFFF !important;
     background-color: #5F72BE !important;
-    border-left: 20px solid #5F72BE !important;
-    margin: 1.5rem !important;
-    padding: 1.5rem !important;
+    border-left: 20px solid #6a7fd4 !important;
+    padding: 2rem !important;
 }
