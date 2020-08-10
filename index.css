@@ -39,7 +39,7 @@
 }
 
 .card-title {
-    color: #B621FE; 
-    text-align: center; 
-    font-weight: bold;
+    color: #B621FE !important; 
+    text-align: center !important; 
+    font-weight: bold !important;
 }
