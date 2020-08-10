@@ -43,3 +43,11 @@
     text-align: center !important; 
     font-weight: bold !important;
 }
+
+.bq-fill {
+    color: #FFFFFF !important;
+    background-color: #5F72BE !important;
+    border-left: 10px solid #5F72BE !important;
+    margin: 1.5em 10px !important;
+    padding: 0.5em 10px !important;
+}
