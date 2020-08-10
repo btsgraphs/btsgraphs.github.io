@@ -37,3 +37,9 @@
     background-color: #5F72BE !important;
     color: #FFFFFF !important;
 }
+
+.card-title {
+    color: #B621FE; 
+    text-align: center; 
+    font-weight: bold;
+}
