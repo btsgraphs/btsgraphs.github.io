@@ -38,6 +38,10 @@
     color: #FFFFFF !important;
 }
 
+.bg-black {
+    background-color: #000000 !important;
+}
+
 .card-title {
     color: #B621FE !important; 
     text-align: center !important; 
