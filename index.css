@@ -20,6 +20,10 @@
 
 }
 
+.normal {
+    font-weight: normal !important;
+}
+
 .page-container p{
     font-size: 1rem;
     font-family: 'Lato', sans-serif;
