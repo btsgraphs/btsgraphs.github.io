@@ -90,11 +90,15 @@ ul {
   margin: 0;
 }
 li {
+  position: relative;
   padding-left: 1.7em; 
   padding-right: 0.7em;
   text-indent: -0.7em;
 }
 li::before {
   content: "\002022";
+  position: absolute;
+  left: -0.7em;
+  font-size: 1.3em;
   color: #5F72BE; 
 }
