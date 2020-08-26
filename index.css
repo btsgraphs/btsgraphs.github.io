@@ -60,6 +60,13 @@
     padding: 2rem 10px !important;
 }
 
-.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+table.table-bordered {
+    border: 1px solid #7716c7 !important;
+    margin-top:20px;
+}
+table.table-bordered > thead > tr > th {
+    border: 1px solid #7716c7 !important;
+}
+table.rs-table-bordered > tbody > tr > td {
     border: 1px solid #7716c7 !important;
 }
