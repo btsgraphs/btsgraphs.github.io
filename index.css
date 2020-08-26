@@ -89,6 +89,7 @@ ul {
 }
 ul li { 
   font-size: 16px;
+  text-indent: -0.7em;
 }
 ul li:before { /* the custom styled bullets */
   background-color: #5F72BE;
