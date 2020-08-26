@@ -61,10 +61,12 @@
 }
 
 table.table-bordered > thead > tr > td {
-    border: 3px solid #7716c7 !important;
+    border: 1px solid #7716c7 !important;
+    border-bottom: 2px solid #7716c7 !important;
 }
 table.table-bordered > thead > tr > th {
-    border: 3px solid #7716c7 !important;
+    border: 1px solid #7716c7 !important;
+    border-bottom: 2px solid #7716c7 !important;
 }
 table.table-bordered > tbody > tr > td {
     border: 1px solid #7716c7 !important;
@@ -79,5 +81,19 @@ table.table-bordered > tfoot > tr > th {
     border: 1px solid #7716c7 !important;
 }
 .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
-  background-color: #e5ddf3 !important;
+  background-color: #f2eef9 !important;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li {
+  padding-left: 1em; 
+  text-indent: -.7em;
+}
+li::before {
+  content: "\002022";
+  color: #5F72BE; 
 }
