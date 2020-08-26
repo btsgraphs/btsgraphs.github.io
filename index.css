@@ -91,10 +91,10 @@ ul {
 }
 li {
   padding-left: 1em; 
+  padding-right: 0.7em;
   text-indent: -0.7em;
 }
 li::before {
   content: "\002022";
-  padding-right: 7px;
   color: #5F72BE; 
 }
