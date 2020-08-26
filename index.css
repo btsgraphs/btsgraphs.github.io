@@ -96,13 +96,13 @@ ul li {
 }
 ul li:before { /* the custom styled bullets */
   position: absolute;
-  background-color: #5F72BE;
+  background-color: red;
   border-radius: 50%;
   content: "";
   display: inline-block;
   margin-right: 10px;
   margin-bottom: 2px;
-  margin-top: 5px;
+  margin-top: 8px;
   line-height: 16px;
   vertical-align: middle;
   height: 10px;
