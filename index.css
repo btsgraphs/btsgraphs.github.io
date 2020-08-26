@@ -61,24 +61,24 @@
 }
 
 table.table-bordered > thead > tr > td {
-    border: 1px solid #7716c7 !important;
+    border: 1px solid #5F72BE !important;
     border-bottom: 2px solid #7716c7 !important;
 }
 table.table-bordered > thead > tr > th {
-    border: 1px solid #7716c7 !important;
+    border: 1px solid #5F72BE !important;
     border-bottom: 2px solid #7716c7 !important;
 }
 table.table-bordered > tbody > tr > td {
-    border: 1px solid #7716c7 !important;
+    border: 1px solid #5F72BE !important;
 }
 table.table-bordered > tbody > tr > th {
-    border: 1px solid #7716c7 !important;
+    border: 1px solid #5F72BE !important;
 }
 table.table-bordered > tfoot > tr > td {
-    border: 1px solid #7716c7 !important;
+    border: 1px solid #5F72BE !important;
 }
 table.table-bordered > tfoot > tr > th {
-    border: 1px solid #7716c7 !important;
+    border: 1px solid #5F72BE !important;
 }
 .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
   background-color: #f2eef9 !important;
