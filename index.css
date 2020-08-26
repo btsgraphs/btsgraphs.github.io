@@ -88,8 +88,7 @@ ul {
   list-style-type: none; /* no default bullets */
 }
 ul li { 
-  font-family: Arial;
-  font-size: 18px;
+  font-size: 16px;
 }
 ul li:before { /* the custom styled bullets */
   background-color: #5F72BE;
