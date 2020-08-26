@@ -84,16 +84,20 @@ table.table-bordered > tfoot > tr > th {
   background-color: #f2eef9 !important;
 }
 
-li {
-  list-style: none;
-  text-indent: -1em;
-  position: relative;
+ul {
+  list-style-type: none; /* no default bullets */
 }
-li::before {
-  content: "\002022";
-  position: absolute;
-  left: -1em;
-  margin-right: 0.7em;
-  font-size: 1.3em;
-  color: #5F72BE; 
+ul li { 
+  font-family: Arial;
+  font-size: 18px;
+}
+ul li:before { /* the custom styled bullets */
+  background-color: #5F72BE;
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 2px;
+  height: 10px;
+  width: 10px;
 }
