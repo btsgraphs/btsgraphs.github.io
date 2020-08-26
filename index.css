@@ -86,6 +86,7 @@ table.table-bordered > tfoot > tr > th {
 
 li {
   list-style: none;
+  text-indent: -1em;
   position: relative;
 }
 li::before {
