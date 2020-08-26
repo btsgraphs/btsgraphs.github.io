@@ -84,21 +84,15 @@ table.table-bordered > tfoot > tr > th {
   background-color: #f2eef9 !important;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
 li {
+  list-style: none;
   position: relative;
-  padding-left: 1.7em; 
-  padding-right: 0.7em;
-  text-indent: -0.7em;
 }
 li::before {
   content: "\002022";
   position: absolute;
-  left: -0.7em;
+  padding-left: -1em;
+  margin-right: 1em;
   font-size: 1.3em;
   color: #5F72BE; 
 }
