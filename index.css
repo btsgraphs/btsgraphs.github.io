@@ -64,21 +64,21 @@ table.table-bordered {
     border: 1px solid #7716c7 !important;
     margin-top: 20px !important;
 }
-table.table-bordered > tbody > tr > td {
-	border: 1px solid #7716c7 !important;
-}
-table.table-bordered > tbody > tr > th {
-	border: 1px solid #7716c7 !important;
-}
-table.table-bordered > tfoot > tr > td {
-	border: 1px solid #7716c7 !important;
-}
-table.table-bordered > tfoot > tr > th {
-	border: 1px solid #7716c7 !important;
-}
 table.table-bordered > thead > tr > td {
-	border: 1px solid #7716c7 !important;
+    border: 2px solid #7716c7 !important;
 }
 table.table-bordered > thead > tr > th {
+    border: 1px solid #7716c7 !important;
+}
+table.table-bordered > tbody > tr > td {
+    border: 1px solid #7716c7 !important;
+}
+table.table-bordered > tbody > tr > th {
+    border: 1px solid #7716c7 !important;
+}
+table.table-bordered > tfoot > tr > td {
+    border: 1px solid #7716c7 !important;
+}
+table.table-bordered > tfoot > tr > th {
     border: 1px solid #7716c7 !important;
 }
